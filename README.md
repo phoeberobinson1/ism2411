@@ -29,11 +29,6 @@ python week07/functions.py
 
 1. Commit History Assessment
 
-f7c2b3e add lab 8 reflection to README
-a3f1b2c add README with module listing and run instructions
-9d4e1a0 add module 7 functions: calculate_tax, apply_discount, final_price
-4b8d2c1 add .gitignore for Python and OS files
-
 If a hiring manager saw this history, it would show that this developer works in an organized, incremental, and intentional way. Each commit represents a single, complete logical unit of work with a descriptive message rather than a massive, confusing "dump everything at once" update. It demonstrates good version-control hygiene and clear communication skills through concise commit messages.
 
 2. Changing How You Approach Edits
